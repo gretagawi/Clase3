@@ -1,0 +1,53 @@
+body{
+	font-family: Montserrat, sans-serif;
+}
+
+h1{
+	font-size: 50px;
+	color: #0AD3FF;
+	font-style: underline;
+	text-align: center; 
+} 
+
+h2{
+	font-size: 30px;
+	color: #758ECD;
+}
+
+h3{
+	font-size: 30px;
+	color: #758ECD;
+}
+
+p{
+	font-size: 14px;
+}
+
+.link{
+	color: #78FFD6;
+	font-style: none;
+}
+
+div{
+	text-align: center; 
+}
+
+.iconos{
+	font-size: 40px;
+} 
+
+.color-facebook{
+	color: #3b5998;
+}
+
+.color-instagram{
+	color: #125688; 
+}
+
+.color-twitter{
+	color: #55acee;
+} 
+
+.color-linkedin{
+	color: #007bb5;
+}
